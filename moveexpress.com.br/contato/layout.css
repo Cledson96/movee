@@ -1,0 +1,21 @@
+div#wrapper 
+{
+	margin:auto;
+	position:relative;
+	width:1000px;
+	z-index:0;
+}
+ 
+ul, li 
+{
+	/*list-style: none;*/
+}
+ 
+li 
+{
+	background:#FDFDFD;
+	color:#000033;
+	padding: 2px;
+	margin:  4px;
+	text-transform: uppercase;
+}
