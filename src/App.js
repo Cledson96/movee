@@ -144,7 +144,7 @@ console.log(data)
       </div>
 
       <div class="whatsapp-fixo">
-        <a href="http://linkwhatsapp.com/MOVE-EXPRESS" target="_blank">
+        <a href="http://linkwhatsapp.com/MOVE-EXPRESS" rel="noreferrer" target="_blank">
           <img src="images/icons-whats.png" alt="Fale Conosco pelo WhatsApp" />
         </a>
       </div>
